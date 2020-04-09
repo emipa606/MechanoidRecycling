@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName ="Mech_Centipede"]/butcherProducts/Steel</xpath>
+      <value>
+		  <MechanoidElectronicPart>50</MechanoidElectronicPart>
+      </value>
+	</Operation>      
+	<Operation Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName ="Mech_Centipede"]/butcherProducts/Plasteel</xpath>
+      <value>		  
+		  <MechanoidHullPart>30</MechanoidHullPart>
+      </value>
+	</Operation> 
+	<Operation Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[@Name = "BaseMechanoidWalker"]/butcherProducts/Steel</xpath>
+      <value>
+		  <MechanoidElectronicPart>25</MechanoidElectronicPart>
+      </value>
+	</Operation>      
+	<Operation Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[@Name = "BaseMechanoidWalker"]/butcherProducts/Plasteel</xpath>
+      <value>		  
+		  <MechanoidHullPart>15</MechanoidHullPart>
+      </value>
+	</Operation>  
+
+</Patch>
