@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MR-CreateBionicEye.label>Craft bionic eye</MR-CreateBionicEye.label>
+  <MR-CreateBionicEye.description>Crafts a bionic eye from mechanoid scrap.</MR-CreateBionicEye.description>
+  <MR-CreateBionicEye.jobString>Crafting bionic.</MR-CreateBionicEye.jobString>
+
+  <MR-CreateBionicArm.label>Craft bionic arm</MR-CreateBionicArm.label>
+  <MR-CreateBionicArm.description>Crafts a bionic arm from mechanoid scrap.</MR-CreateBionicArm.description>
+  <MR-CreateBionicArm.jobString>Crafting bionic.</MR-CreateBionicArm.jobString>
+
+  <MR-CreateBionicLeg.label>Craft bionic leg</MR-CreateBionicLeg.label>
+  <MR-CreateBionicLeg.description>Crafts a bionic leg from mechanoid scrap.</MR-CreateBionicLeg.description>
+  <MR-CreateBionicLeg.jobString>Crafting bionic.</MR-CreateBionicLeg.jobString>
+
+  <MeltMechanoidHullPlate.label>melt mechanoid hull plate</MeltMechanoidHullPlate.label>
+  <MeltMechanoidHullPlate.description>Melting mechanoid hull plate to steel and plasteel.</MeltMechanoidHullPlate.description>
+  <MeltMechanoidHullPlate.jobString>Melting mechanoid hull.</MeltMechanoidHullPlate.jobString>
+
+  <MeltMechanoidElectronicPart.label>melt mechanoid electronic part</MeltMechanoidElectronicPart.label>
+  <MeltMechanoidElectronicPart.description>Melting mechanoid electronic part to steel and plasteel.</MeltMechanoidElectronicPart.description>
+  <MeltMechanoidElectronicPart.jobString>Melting mechanoid electric.</MeltMechanoidElectronicPart.jobString>
+
+
+</LanguageData>
