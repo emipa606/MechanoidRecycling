@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <MechanoidHullPart.label>mechanoid hull plate</MechanoidHullPart.label>
   <MechanoidHullPart.description>An iron-carbon plate extracted from dead mechanoid.</MechanoidHullPart.description>
-
   <MechanoidElectronicPart.label>mechanoid electronic part</MechanoidElectronicPart.label>
   <MechanoidElectronicPart.description>An advanced micro-electronic part extracted from dead mechanoid.</MechanoidElectronicPart.description>
-
-
 </LanguageData>
