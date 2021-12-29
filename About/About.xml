@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Mechanoid Recycling (Continued)</name>
   <packageId>Mlie.MechanoidRecycling</packageId>
@@ -11,14 +11,14 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Porohkun, Gerusz mod 
 https://steamcommunity.com/sharedfiles/filedetails/?id=843280654
 
 Replaced original dissasemble-code with patching, replacing the Steel for MechanoidElectronicPart and Plasteel for MechanoidHullPart.
 This should make it more compatible with other machanoid-mods.
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
@@ -27,7 +27,7 @@ This should make it more compatible with other machanoid-mods.
 	[/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
 You dont know what to do with dead mechanoids? Recycle them! Detach bionic arms and legs or full disassemle on electric and hull parts.
 
@@ -41,7 +41,7 @@ You can disassemble mechanoids into its component parts and create of them bioni
 [b][done][/b] Unconnect bionic arms, legs and eyes from immobilized mechanoids
 [b][done][/b] Disassemble mechanoid corpses into its parts
 [b][done][/b] Melting mechanoid parts into metals
-[b][done][/b] Craft bionic prostheses from mechanoid parts (need &apos;mechanoid bionics&apos; research)
+[b][done][/b] Craft bionic prostheses from mechanoid parts (need 'mechanoid bionics' research)
 [b][wip][/b] Mechanoid weapons will be drops and can be sold or recycle into metals and something like plasma crystal fragments
 [b][wip][/b] Plasma crystal fragments will be combined into full crystal for using it into turrets and maybe hand weapons
 [b][planned][/b] Unconnecting prostheses from human and mechanoid corpses
@@ -52,10 +52,10 @@ You can disassemble mechanoids into its component parts and create of them bioni
 Update on 1/18/2017 12:56:26 AM.
 
 - Melt mechanoid parts into metals
-- &apos;Mechanoid bionics&apos; research for craft bionics
+- 'Mechanoid bionics' research for craft bionics
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -66,4 +66,3 @@ Update on 1/18/2017 12:56:26 AM.
 [/list]
 </description>
 </ModMetaData>
-

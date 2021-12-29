@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>MechanoidBionics</defName>
+    <label>mechanoid bionics</label>
+    <description>Numerous dead mechanoids investigations have led to the concept of reconstruction of bionic parts from the wreckage mechanoid body.</description>
+    <baseCost>2000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>Machining</li>
+    </prerequisites>
+    <researchViewX>7.00</researchViewX>
+  </ResearchProjectDef>
+</Defs>

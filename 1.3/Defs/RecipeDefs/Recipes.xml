@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Name="RecipeBionicMechanoid" Abstract="True">
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+    <workSkill>Crafting</workSkill>
+    <workAmount>8000</workAmount>
+    <skillRequirements>
+      <Crafting>7</Crafting>
+    </skillRequirements>
+    <recipeUsers>
+      <li>TableMachining</li>
+    </recipeUsers>
+    <researchPrerequisite>MechanoidBionics</researchPrerequisite>
+  </RecipeDef>
+  <RecipeDef ParentName="RecipeBionicMechanoid">
+    <defName>MR-CreateBionicEye</defName>
+    <label>Craft bionic eye</label>
+    <description>Crafts a bionic eye from mechanoid scrap.</description>
+    <jobString>Crafting bionic.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MechanoidElectronicPart</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MechanoidHullPart</li>
+          </thingDefs>
+        </filter>
+        <count>8</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>MechanoidElectronicPart</li>
+        <li>MechanoidHullPart</li>
+        <li>ComponentIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BionicEye>1</BionicEye>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="RecipeBionicMechanoid">
+    <defName>MR-CreateBionicArm</defName>
+    <label>Craft bionic arm</label>
+    <description>Crafts a bionic arm from mechanoid scrap.</description>
+    <jobString>Crafting bionic.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MechanoidElectronicPart</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MechanoidHullPart</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>MechanoidElectronicPart</li>
+        <li>MechanoidHullPart</li>
+        <li>ComponentIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BionicArm>1</BionicArm>
+    </products>
+  </RecipeDef>
+  <RecipeDef ParentName="RecipeBionicMechanoid">
+    <defName>MR-CreateBionicLeg</defName>
+    <label>Craft bionic leg</label>
+    <description>Crafts a bionic leg from mechanoid scrap.</description>
+    <jobString>Crafting bionic.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MechanoidElectronicPart</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MechanoidHullPart</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>ComponentIndustrial</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>MechanoidElectronicPart</li>
+        <li>MechanoidHullPart</li>
+        <li>ComponentIndustrial</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <BionicLeg>1</BionicLeg>
+    </products>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MeltMechanoidHullPlate</defName>
+    <label>melt mechanoid hull plate</label>
+    <description>Melting mechanoid hull plate to steel and plasteel.</description>
+    <jobString>Melting mechanoid hull.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>Smelt</effectWorking>
+    <soundWorking>Recipe_Smelt</soundWorking>
+    <workAmount>200</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MechanoidHullPart</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>MechanoidHullPart</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Steel>1</Steel>
+      <Plasteel>1</Plasteel>
+    </products>
+    <recipeUsers>
+      <li>ElectricSmelter</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MeltMechanoidElectronicPart</defName>
+    <label>melt mechanoid electronic part</label>
+    <description>Melting mechanoid electronic part to steel and plasteel.</description>
+    <jobString>Melting mechanoid electric.</jobString>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <effectWorking>Smelt</effectWorking>
+    <soundWorking>Recipe_Smelt</soundWorking>
+    <workAmount>100</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>MechanoidElectronicPart</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>MechanoidElectronicPart</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Steel>1</Steel>
+    </products>
+    <recipeUsers>
+      <li>ElectricSmelter</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

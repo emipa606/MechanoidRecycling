@@ -1,6 +1,6 @@
 # MechanoidRecycling
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of Porohkun, Gerusz mod 
 https://steamcommunity.com/sharedfiles/filedetails/?id=843280654
@@ -8,19 +8,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=843280654
 Replaced original dissasemble-code with patching, replacing the Steel for MechanoidElectronicPart and Plasteel for MechanoidHullPart.
 This should make it more compatible with other machanoid-mods.
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/MechanoidRecycling]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 You dont know what to do with dead mechanoids? Recycle them! Detach bionic arms and legs or full disassemle on electric and hull parts.
@@ -36,7 +27,7 @@ You can disassemble mechanoids into its component parts and create of them bioni
 **[done]** Unconnect bionic arms, legs and eyes from immobilized mechanoids
 **[done]** Disassemble mechanoid corpses into its parts
 **[done]** Melting mechanoid parts into metals
-**[done]** Craft bionic prostheses from mechanoid parts (need &apos;mechanoid bionics&apos; research)
+**[done]** Craft bionic prostheses from mechanoid parts (need 'mechanoid bionics' research)
 **[wip]** Mechanoid weapons will be drops and can be sold or recycle into metals and something like plasma crystal fragments
 **[wip]** Plasma crystal fragments will be combined into full crystal for using it into turrets and maybe hand weapons
 **[planned]** Unconnecting prostheses from human and mechanoid corpses
@@ -47,10 +38,10 @@ You can disassemble mechanoids into its component parts and create of them bioni
 Update on 1/18/2017 12:56:26 AM.
 
 - Melt mechanoid parts into metals
-- &apos;Mechanoid bionics&apos; research for craft bionics
+- 'Mechanoid bionics' research for craft bionics
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 

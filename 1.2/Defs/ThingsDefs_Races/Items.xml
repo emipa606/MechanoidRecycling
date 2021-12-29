@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>MechanoidHullPart</defName>
+    <label>mechanoid hull plate</label>
+    <description>An iron-carbon plate extracted from dead mechanoid.</description>
+    <graphicData>
+      <texPath>Things/Items/HullPart</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <MarketValue>35</MarketValue>
+      <Mass>0.5</Mass>
+    </statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <smeltProducts>
+      <Steel>1</Steel>
+      <Plasteel>1</Plasteel>
+    </smeltProducts>
+  </ThingDef>
+  <ThingDef ParentName="ResourceBase">
+    <defName>MechanoidElectronicPart</defName>
+    <label>mechanoid electronic part</label>
+    <description>An advanced micro-electronic part extracted from dead mechanoid.</description>
+    <graphicData>
+      <texPath>Things/Items/ElectricPart</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>30</MarketValue>
+      <Mass>0.3</Mass>
+    </statBases>
+    <intricate>true</intricate>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <smeltProducts>
+      <Steel>1</Steel>
+    </smeltProducts>
+  </ThingDef>
+</Defs>

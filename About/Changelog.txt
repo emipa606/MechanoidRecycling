@@ -1,5 +1,8 @@
 # Changelog for MechanoidRecycling
 
+1.0.4.0 - Fixed the now required smeltable-tag on the resources
+
+
 1.0.3.0 - Mod updated for 1.3 and passed autotests
 
 
