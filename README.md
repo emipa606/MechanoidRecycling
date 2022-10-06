@@ -5,8 +5,8 @@
 Update of Porohkun, Gerusz mod 
 https://steamcommunity.com/sharedfiles/filedetails/?id=843280654
 
-Replaced original dissasemble-code with patching, replacing the Steel for MechanoidElectronicPart and Plasteel for MechanoidHullPart.
-This should make it more compatible with other machanoid-mods.
+- Replaced original dissasemble-code with patching, replacing the Steel for MechanoidElectronicPart and Plasteel for MechanoidHullPart. This should make it more compatible with other machanoid-mods.
+- Added bulk smelting recipes
 
 ![Image](https://i.imgur.com/pufA0kM.png)
 
