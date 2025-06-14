@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: melt mechanoid electronic part -->
+  <MeltMechanoidElectronicPart.label>melt mechanoid electronic part</MeltMechanoidElectronicPart.label>
+  <!-- EN: Melting mechanoid electronic part to steel and plasteel. -->
+  <MeltMechanoidElectronicPart.description>Melting mechanoid electronic part to steel and plasteel.</MeltMechanoidElectronicPart.description>
+  <!-- EN: Melting mechanoid electric. -->
+  <MeltMechanoidElectronicPart.jobString>Melting mechanoid electric.</MeltMechanoidElectronicPart.jobString>
+  <!-- EN: melt mechanoid electronic part x10 -->
+  <MeltMechanoidElectronicPartBulk.label>melt mechanoid electronic part x10</MeltMechanoidElectronicPartBulk.label>
+  <!-- EN: Melting mechanoid electronic parts to steel and plasteel. -->
+  <MeltMechanoidElectronicPartBulk.description>Melting mechanoid electronic parts to steel and plasteel.</MeltMechanoidElectronicPartBulk.description>
+  <!-- EN: Melting mechanoid electrics. -->
+  <MeltMechanoidElectronicPartBulk.jobString>Melting mechanoid electrics.</MeltMechanoidElectronicPartBulk.jobString>
+  <!-- EN: melt mechanoid hull plate -->
+  <MeltMechanoidHullPlate.label>melt mechanoid hull plate</MeltMechanoidHullPlate.label>
+  <!-- EN: Melting mechanoid hull plate to steel and plasteel. -->
+  <MeltMechanoidHullPlate.description>Melting mechanoid hull plate to steel and plasteel.</MeltMechanoidHullPlate.description>
+  <!-- EN: Melting mechanoid hull. -->
+  <MeltMechanoidHullPlate.jobString>Melting mechanoid hull.</MeltMechanoidHullPlate.jobString>
+  <!-- EN: melt mechanoid hull plate x10 -->
+  <MeltMechanoidHullPlateBulk.label>melt mechanoid hull plate x10</MeltMechanoidHullPlateBulk.label>
+  <!-- EN: Melting 10 mechanoid hull plates to steel and plasteel. -->
+  <MeltMechanoidHullPlateBulk.description>Melting 10 mechanoid hull plates to steel and plasteel.</MeltMechanoidHullPlateBulk.description>
+  <!-- EN: Melting 10 mechanoid hulls. -->
+  <MeltMechanoidHullPlateBulk.jobString>Melting 10 mechanoid hulls.</MeltMechanoidHullPlateBulk.jobString>
+  <!-- EN: Craft bionic arm -->
+  <MR-CreateBionicArm.label>Craft bionic arm</MR-CreateBionicArm.label>
+  <!-- EN: Crafts a bionic arm from mechanoid scrap. -->
+  <MR-CreateBionicArm.description>Crafts a bionic arm from mechanoid scrap.</MR-CreateBionicArm.description>
+  <!-- EN: Crafting bionic. -->
+  <MR-CreateBionicArm.jobString>Crafting bionic.</MR-CreateBionicArm.jobString>
+  <!-- EN: Craft bionic eye -->
+  <MR-CreateBionicEye.label>Craft bionic eye</MR-CreateBionicEye.label>
+  <!-- EN: Crafts a bionic eye from mechanoid scrap. -->
+  <MR-CreateBionicEye.description>Crafts a bionic eye from mechanoid scrap.</MR-CreateBionicEye.description>
+  <!-- EN: Crafting bionic. -->
+  <MR-CreateBionicEye.jobString>Crafting bionic.</MR-CreateBionicEye.jobString>
+  <!-- EN: Craft bionic leg -->
+  <MR-CreateBionicLeg.label>Craft bionic leg</MR-CreateBionicLeg.label>
+  <!-- EN: Crafts a bionic leg from mechanoid scrap. -->
+  <MR-CreateBionicLeg.description>Crafts a bionic leg from mechanoid scrap.</MR-CreateBionicLeg.description>
+  <!-- EN: Crafting bionic. -->
+  <MR-CreateBionicLeg.jobString>Crafting bionic.</MR-CreateBionicLeg.jobString>
+</LanguageData>

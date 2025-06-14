@@ -1,4 +1,4 @@
-# MechanoidRecycling
+# [Mechanoid Recycling (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2054534361)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -9,16 +9,14 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=843280654
 - Added bulk smelting recipes
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 You dont know what to do with dead mechanoids? Recycle them! Detach bionic arms and legs or full disassemle on electric and hull parts.
 
 You can disassemble mechanoids into its component parts and create of them bionic prostheses.
 [quote]
-***Mod deprecated - use https://steamcommunity.com/sharedfiles/filedetails/?id=2054534361]continuation from Mlie***
+***Mod deprecated - use [continuation from Mlie](https://steamcommunity.com/sharedfiles/filedetails/?id=2054534361)***
 [/quote]
 * Not comporatible with other mechanoid modes and EPOE *
 
@@ -47,13 +45,12 @@ Update on 1/18/2017 12:56:26 AM.
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2054534361]![Image](https://img.shields.io/github/v/release/emipa606/MechanoidRecycling?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/MechanoidRecycling?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2054534361) | tags:  mechanoid parts
